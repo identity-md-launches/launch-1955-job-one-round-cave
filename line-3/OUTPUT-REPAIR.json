@@ -1,0 +1,41 @@
+{
+  "repair": "Restore required output filename using the completed record-40 wall, byte for byte. No new round or record created.",
+  "sha256": "aa0116c2c16d716d96267a543c2bd808e982ebe6d6acad41e76e88e2da8f7a27",
+  "images": {
+    "artifacts/line-3/wall-v20.png": {
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2685231
+    },
+    "artifacts/line-3/wall-v21.png": {
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2685231
+    },
+    "artifacts/line-3/wall.png": {
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2685231
+    },
+    "dist/line-3/40.jpg": {
+      "format": "JPEG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 85600
+    }
+  },
+  "tool_example": "passed: both declared scripts resolve to module_and_object_found",
+  "visual_review": "Existing cave framing, rock, pigments and Pepe preserved exactly. No new marks, hands, letters or numbers introduced.",
+  "unmet_visual_requirements": []
+}
