@@ -1,0 +1,30 @@
+{
+  "name": "The Correlated Stones",
+  "image": "https://api.imd.fun/artifacts/91194b079e06a49d516219c888da47138e3835f4ecef093067291c4c21bfe442",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 41
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Joint Origin Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Four ochre stones gather around one chalk witness to keep connected changes together."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}

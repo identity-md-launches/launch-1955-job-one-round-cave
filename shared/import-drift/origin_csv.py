@@ -11,6 +11,7 @@ import budget
 import origins
 import reconcile
 import transitions
+import joint_transitions
 
 KEYS = ('path', 'line', 'site_index')
 COLUMNS = KEYS + ('module', 'name', 'imported_name', 'target_module', 'status',
@@ -70,6 +71,8 @@ def compare(before, after):
             'comparison': reconcile.reconcile_tables(*tables, KEYS),
             'status_transitions': transitions.transitions_tables(
                 *tables, KEYS, ['status'], include_records=True),
+            'joint_transitions': joint_transitions.joint_transitions_tables(
+                *tables, KEYS, ['status', 'reason'], include_records=True),
             'scope': SCOPE}
 
 

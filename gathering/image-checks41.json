@@ -1,0 +1,44 @@
+{
+  "ancestor_sha256": "6e2c307ae396103b96af2e5844698facd7b5b26f895d530d08973db8b8962fe3",
+  "generated_sha256": "3b215f33aa1d58861fadf3688ee9cb5babb583b74e4b3880c1e4299b9d9c8586",
+  "png": {
+    "path": "artifacts/gathering/wall-v21.png",
+    "format": "PNG",
+    "mode": "RGB",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 4017420,
+    "sha256": "91194b079e06a49d516219c888da47138e3835f4ecef093067291c4c21bfe442"
+  },
+  "jpeg": {
+    "path": "dist/gathering/41.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 68158
+  },
+  "preservation": {
+    "rectangle": [
+      620,
+      190,
+      680,
+      255
+    ],
+    "changed_pixels": 858,
+    "changed_bounds": [
+      626,
+      193,
+      672,
+      248
+    ],
+    "outside_rectangle_changed_pixels": 0
+  },
+  "model": "Built-in image_gen image edit, followed by bounded pigment-only compositing onto verified ancestor",
+  "visual_review_completed": true,
+  "unmet_visual_requirements": [],
+  "visual_review": "Opened final PNG and JPEG. Preserved wide-mouth heavy-lidded Pepe; counted four fingers and one thumb on each visible figure hand and five digits on the upper stencil. No new hands. No text, numbers, frame or prohibited symbols observed. Small motif faint in preview."
+}

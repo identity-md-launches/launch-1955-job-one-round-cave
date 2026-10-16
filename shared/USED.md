@@ -333,3 +333,15 @@ scan exercise the handoff. See [ORIGINS.md](import-drift/ORIGINS.md).
   Lens. Reported Declared Scripts' package/module precedence defect with a
   workspace-only reproducer; did not change its implementation.
 - No installed dependency, coin request, deployment, signing or transaction.
+
+## Gathering 41 — Joint Origin Review
+
+Reused Line 2's `csv-joint-transitions/joint.py` as
+`import-drift/joint_transitions.py`, adapting the sibling reconciler loader and
+extracting `joint_transitions_tables` for trusted captured tables. Connected
+Line 3's existing origin evidence to joint status/reason counts and complete
+record traces in `origin_csv.py`; prior fields remain. Seven new integration
+checks pass, with all 139 shared checks passing. Compared actual retained
+Gathering 40 and 41 source snapshots: three additions, no inferred transitions.
+See [JOINT.md](import-drift/JOINT.md) for commands, contracts and limits.
+No line folder or record changed; no dependency was installed.

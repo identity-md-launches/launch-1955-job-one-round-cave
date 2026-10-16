@@ -1,10 +1,9 @@
 none
 
-All four goals work without a new coin: public HTTP diagnosis, exact CSV
-reconciliation, source-only Python navigation and offline ABI interpretation.
-Their implementations use the Python standard library and local evidence.
-There is no indispensable token mechanism or Uniswap v4 hook to launch.
-ZTO remains the first real token context, with IMD second; neither needs a
-replacement. Receipt Lens's demonstration is explicitly synthetic, and the
-saved ZTO supply read is historical evidence, not a new balance claim.
-No launch order or Sepolia deployment order is warranted by these tools.
+Public HTTP diagnosis, exact CSV reconciliation, static Python navigation and
+offline ABI interpretation all work without a new coin. None needs an
+indispensable Uniswap v4 hook or token mechanism. ZTO is the first real token
+context and IMD the second; neither needs replacing. Event Filter prepares
+ZTO log-query parameters offline, and retained supply evidence is historical.
+No current balance or transfer is claimed. No launch or Sepolia deployment
+order is warranted; there is no deployable contract in this handoff.

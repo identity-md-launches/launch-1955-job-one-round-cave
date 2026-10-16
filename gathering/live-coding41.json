@@ -1,0 +1,37 @@
+{
+  "schema": "coding-lens/v1",
+  "url": "https://api.imd.fun/launches",
+  "checked_at": "2026-10-16T09:27:42.246429+00:00",
+  "ok": true,
+  "capture_complete": true,
+  "encoded_bytes": 23970,
+  "decoded_bytes": 125071,
+  "limits": {
+    "deadline_seconds": 8.0,
+    "max_encoded_bytes": 262144,
+    "max_decoded_bytes": 1048576,
+    "max_gzip_members": 16
+  },
+  "status": 200,
+  "http_success": true,
+  "coding_headers": [
+    [
+      "content-encoding",
+      "gzip"
+    ],
+    [
+      "transfer-encoding",
+      "chunked"
+    ]
+  ],
+  "content_coding": "gzip",
+  "framing": "chunked",
+  "coding_applies_to_body": true,
+  "decoded_sha256": "9cc0f226e458cfb4b0007e74ad35e404d9732403b9148715289e751db0349705",
+  "gzip_members": 1,
+  "encoded_sha256": "a60c197fd282ddc7ef7061f8426aeee3b833ac358da83fd84b04b58432bcf92f",
+  "framing_assurance": "http_library_parsed_chunked",
+  "expansion_ratio": 5.217814,
+  "elapsed_ms": 243.264,
+  "watchdog_elapsed_ms": 308.546
+}

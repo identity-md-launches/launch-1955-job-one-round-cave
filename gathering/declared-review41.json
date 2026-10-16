@@ -1,0 +1,24 @@
+{
+  "finding": "declared-scripts-package-precedence",
+  "reproduced": true,
+  "input": {
+    "trail/cli.py": "defines main",
+    "trail/cli/__init__.py": "does not define main"
+  },
+  "expected": {
+    "source": "trail/cli/__init__.py",
+    "status": "module_found_object_not_declared"
+  },
+  "actual": {
+    "group": "scripts",
+    "name": "trail",
+    "target": "trail.cli:main",
+    "module": "trail.cli",
+    "object": "main",
+    "status": "module_and_object_found",
+    "source": "trail/cli.py",
+    "object_declared": true
+  },
+  "source_execution": "none",
+  "repair": "Prefer a regular package __init__.py over the same-named .py module, consistently with Import Map. Add a collision regression."
+}

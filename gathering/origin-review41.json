@@ -1,0 +1,103 @@
+{
+  "schema": "origin-review/v1",
+  "comparison": {
+    "format": "csv-reconcile/v1",
+    "keys": [
+      "path",
+      "line",
+      "site_index"
+    ],
+    "ignored_columns": [],
+    "equal": true,
+    "complete": true,
+    "schema": {
+      "added_columns": [],
+      "removed_columns": []
+    },
+    "summary": {
+      "before_records": 43,
+      "after_records": 43,
+      "added": 0,
+      "removed": 0,
+      "changed": 0,
+      "unchanged_on_common_columns": 43,
+      "ambiguous_keys": 0
+    },
+    "added": [],
+    "removed": [],
+    "changed": [],
+    "ambiguous": []
+  },
+  "status_transitions": {
+    "format": "csv-transitions/v1",
+    "equal": true,
+    "complete": true,
+    "keys": [
+      "path",
+      "line",
+      "site_index"
+    ],
+    "schema": {
+      "added_columns": [],
+      "removed_columns": []
+    },
+    "summary": {
+      "before_records": 43,
+      "after_records": 43,
+      "added": 0,
+      "removed": 0,
+      "changed": 0,
+      "unchanged_on_common_columns": 43,
+      "ambiguous_keys": 0
+    },
+    "unpaired_records": {
+      "before": 0,
+      "after": 0
+    },
+    "columns": [
+      {
+        "column": "status",
+        "changed_rows": 0,
+        "transitions": []
+      }
+    ]
+  },
+  "joint_transitions": {
+    "format": "csv-joint-transitions/v1",
+    "keys": [
+      "path",
+      "line",
+      "site_index"
+    ],
+    "columns": [
+      "status",
+      "reason"
+    ],
+    "equal": true,
+    "complete": true,
+    "schema": {
+      "added_columns": [],
+      "removed_columns": []
+    },
+    "summary": {
+      "before_records": 43,
+      "after_records": 43,
+      "added": 0,
+      "removed": 0,
+      "changed": 0,
+      "unchanged_on_common_columns": 43,
+      "ambiguous_keys": 0
+    },
+    "selected": {
+      "uniquely_matched_rows": 43,
+      "changed_rows": 0,
+      "unchanged_rows": 43
+    },
+    "unpaired_records": {
+      "before": 0,
+      "after": 0
+    },
+    "transitions": []
+  },
+  "scope": "Static module-body from-import candidates, not verified runtime bindings. Keys are source coordinates plus occurrence index, not semantic identity. Line shifts appear as removals/additions. Conditional/nested imports and runtime rebinding are outside the tracer. Keep snapshot stderr evidence: CSV equality does not certify complete, safe or warning-free source. Keep sources stable during collection. CSV comparisons read each side once; this is not an atomic pair capture."
+}

@@ -58,7 +58,7 @@ def main():
         chunks.append('</div><details><summary>Unpainted records · '+str(len(future))+'</summary><div class="future">'+''.join(future)+'</div></details></section>')
     chunks.append('</main><svg width="0" height="0" aria-hidden="true" style="position:absolute"><defs>')
     for source,identifier in definitions.items():chunks.append(f'<image id="{identifier}" width="64" height="64" href="{source}"/>')
-    chunks.append(f'</defs></svg><footer><p>{count} records · {painted} paintings · {count-painted} reserved slots.</p><p>Previews work offline. Select a painting for its full wall; titles open records. Adjacent JPEGs are 512 px.</p><p><a href="../gathering/REPORT.md">Gathering report</a> · <a href="goals.json">Four goals</a> · <a href="../shared/import-drift/CAPTURE.md">Shared capture repair</a></p></footer></body></html>')
+    chunks.append(f'</defs></svg><footer><p>{count} records · {painted} paintings · {count-painted} reserved slots.</p><p>Previews work offline. Select a painting for its full wall; titles open records. Adjacent JPEGs are 512 px.</p><p><a href="../gathering/REPORT.md">Gathering report</a> · <a href="goals.json">Four goals</a> · <a href="../shared/import-drift/JOINT.md">Shared joint review</a></p></footer></body></html>')
     result=''.join(chunks)
     if len(result.encode())>=100000:raise ValueError(f'gallery exceeds 100 KB: {len(result.encode())}')
     target.write_text(result)
