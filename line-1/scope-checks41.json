@@ -1,0 +1,33 @@
+{
+  "step": 41,
+  "all_checks_passed": true,
+  "goal_byte_for_byte_unchanged": true,
+  "older_records_and_previews_unchanged": true,
+  "baseline_files_checked": 61,
+  "record_count": 41,
+  "new_record": "dist/line-1/41.json",
+  "named_wall_exists_and_untracked": true,
+  "continuation_exists_and_untracked": true,
+  "record_hash_matches_both_walls": true,
+  "all_changes_in_allowed_paths": true,
+  "new_or_modified_nonartifact_files_below_100000_bytes": true,
+  "changed_source_and_dist_paths": [
+    "dist/line-1/41.jpg",
+    "dist/line-1/41.json",
+    "line-1/README.md",
+    "line-1/STEP-41-REVIEW.md",
+    "line-1/USED.md",
+    "line-1/image-checks41.json",
+    "line-1/test-checks41.json",
+    "line-1/tools/coding-lens/README.md",
+    "line-1/tools/coding-lens/coding_lens.py",
+    "line-1/tools/coding-lens/observed-live41.json",
+    "line-1/tools/coding-lens/test_coding_lens.py"
+  ],
+  "picture_paths_created": [
+    "artifacts/line-1/wall-v21.png",
+    "artifacts/line-1/wall.png",
+    "dist/line-1/41.jpg"
+  ],
+  "note": "The JPEG is at the explicitly requested numbered dist path. Scratch files are excluded from delivery."
+}

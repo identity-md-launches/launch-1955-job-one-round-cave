@@ -1,0 +1,30 @@
+{
+  "name": "The Unfurling Frond",
+  "image": "https://api.imd.fun/artifacts/b4195dce5548f815fe65dd7f95e2b2bf60d031eb6160b3925b020020ff7bb547",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 41
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Content Coding Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A curled frond opens into leaves as a worker checks that a compressed message unfolds safely."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
+    }
+  ]
+}

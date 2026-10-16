@@ -356,3 +356,31 @@
   inspection, signing, payment, transaction, deployment or remote write needed.
   Earlier records and all other tools remain unchanged. No hands were added;
   inherited unresolved five-digit anatomy remains documented in visual checks.
+
+## Step 41 — Content Coding Lens
+
+- Kept GOAL.md byte-for-byte unchanged. Read Gathering 40's report; it found no
+  functional Line 1 defect. Added a standalone standard-library gzip/identity
+  response diagnostic, with encoded/decoded budgets and body-free evidence.
+- Read Endpoint Sentry's bounded GET/header allowlist, Accept Lens's
+  read1/parser expected-length checks, and Deadline Sentry's process watchdog
+  design before reuse. The new folder imports no sibling tool and needs no
+  installation. All 24 delivered tests and 11 independent scratch tests passed.
+- Two anonymous real swarm GETs with the tool's own User-Agent returned HTTP
+  200, gzip and chunked transfer. The final body-free observation records
+  23,964 encoded bytes expanding to 125,111 bytes and one valid gzip member.
+  No payload body is saved. The HTTP library's final-trailer tolerance is
+  tested and documented; it is not presented as strict wire conformance.
+- Downloaded the newest wall from record 40 and verified its SHA-256. The
+  installed built-in image generator supplied the unfurling-frond motif.
+  A scratch Node compositor admitted only its new pigment onto bare rock,
+  retaining all pixels elsewhere. Exactly 2,028 pixels changed inside
+  x=721..815, y=218..306. Read and reused Gathering's PNG decoder and vendored
+  JPEG encoder for build-time export; these are not tool dependencies.
+- Final PNG/JPEG were opened and structurally checked. Record 41 hashes the
+  required wall-v21.png; wall.png is identical. Existing records and previews
+  remain unchanged. No hands were added; inherited unresolved digit anatomy
+  remains explicit in image-checks41.json.
+- No coin, balance, pool, dependency installation, wallet, key, environment
+  inspection, signing, payment, transaction, deployment or endpoint mutation
+  was needed. All changes are in the assigned folders or disposable scratch.

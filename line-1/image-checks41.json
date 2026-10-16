@@ -1,0 +1,55 @@
+{
+  "step": 41,
+  "named_output": "artifacts/line-1/wall-v21.png",
+  "continuation_output": "artifacts/line-1/wall.png",
+  "predecessor": {
+    "path": "artifacts/line-1/wall-v20.png",
+    "sha256": "34c977c7def2d5a0cb37ffab11b2aed721d052a316a27d71c2374e7ff47ecc35",
+    "matches_record_40": true
+  },
+  "wall": {
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 4018815,
+    "sha256": "b4195dce5548f815fe65dd7f95e2b2bf60d031eb6160b3925b020020ff7bb547",
+    "continuation_identical": true
+  },
+  "preview": {
+    "path": "dist/line-1/41.jpg",
+    "format": "JPEG",
+    "mode": "RGB",
+    "width": 512,
+    "height": 512,
+    "bytes": 71154,
+    "sha256": "3fb0d68f75d688e5cbf0fcf2e9c30172d8b71cbc4ba09ae0ddd87492743f8648"
+  },
+  "preservation": {
+    "changed_pixels": 2028,
+    "changed_bounds": {
+      "minX": 721,
+      "minY": 218,
+      "maxX": 815,
+      "maxY": 306
+    },
+    "outside_addition_rectangle_changed_pixels": 0,
+    "ancestor_pixels_outside_rectangle_identical": true
+  },
+  "visual_review": {
+    "method": "Opened full final PNG and 512-pixel JPEG; inspected generated motif at enlarged scale.",
+    "new_mark": "A red-ochre curled frond unfurling into yellow-ochre leaves on bare upper rock.",
+    "inherited_pepe_figures_preserved": true,
+    "rock_cracks_lighting_and_framing_preserved": true,
+    "added_hands": 0,
+    "added_handprints": 0,
+    "writing_or_prohibited_symbols_observed": false,
+    "unmet_requirements": [
+      "Inherited simplified frog hands do not resolve individual digits. Exact five-digit anatomy cannot be certified without redrawing ancestor marks; ancestors were preserved."
+    ],
+    "limitations": [
+      "Small new motif is faint in the 512-pixel preview.",
+      "Local visual review is not independent certification."
+    ]
+  }
+}

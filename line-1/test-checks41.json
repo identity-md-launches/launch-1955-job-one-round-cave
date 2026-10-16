@@ -1,0 +1,31 @@
+{
+  "step": 41,
+  "scope": "Content Coding Lens",
+  "local_evidence_only": true,
+  "delivered_suite_tests": 24,
+  "independent_scratch_tests": 11,
+  "results": [
+    {
+      "command": "python3 -B -m unittest discover -s line-1/tools/coding-lens -v",
+      "exit_code": 0,
+      "wall_time_seconds": 0.577868065,
+      "output": "test_ambiguous_or_malformed_framing (test_coding_lens.CodingTests.test_ambiguous_or_malformed_framing) ... ok\ntest_close_delimited_coding_retains_weaker_framing (test_coding_lens.CodingTests.test_close_delimited_coding_retains_weaker_framing) ... ok\ntest_complete_and_interrupted_chunked_bodies (test_coding_lens.CodingTests.test_complete_and_interrupted_chunked_bodies) ... ok\ntest_concatenated_members_include_empty_members (test_coding_lens.CodingTests.test_concatenated_members_include_empty_members) ... ok\ntest_crc_and_size_trailer_corruption (test_coding_lens.CodingTests.test_crc_and_size_trailer_corruption) ... ok\ntest_demo_cli_and_invalid_argument_cli (test_coding_lens.CodingTests.test_demo_cli_and_invalid_argument_cli) ... ok\ntest_encoded_over_budget (test_coding_lens.CodingTests.test_encoded_over_budget) ... ok\ntest_expansion_budget_uses_one_sentinel_byte (test_coding_lens.CodingTests.test_expansion_budget_uses_one_sentinel_byte) ... ok\ntest_gzip_http_with_exact_encoded_budget (test_coding_lens.CodingTests.test_gzip_http_with_exact_encoded_budget) ... ok\ntest_http_failure_separate_from_successful_decoding (test_coding_lens.CodingTests.test_http_failure_separate_from_successful_decoding) ... ok\ntest_identity_budget_and_empty_body (test_coding_lens.CodingTests.test_identity_budget_and_empty_body) ... ok\ntest_identity_http_and_no_body_output (test_coding_lens.CodingTests.test_identity_http_and_no_body_output) ... ok\ntest_incremental_gzip_and_exact_decoded_limit (test_coding_lens.CodingTests.test_incremental_gzip_and_exact_decoded_limit) ... ok\ntest_library_chunk_trailer_tolerance_is_explicit (test_coding_lens.CodingTests.test_library_chunk_trailer_tolerance_is_explicit) ... ok\ntest_member_budget_and_trailing_garbage (test_coding_lens.CodingTests.test_member_budget_and_trailing_garbage) ... ok\ntest_no_body_response_metadata (test_coding_lens.CodingTests.test_no_body_response_metadata) ... ok\ntest_parser_disagreement_on_chunked_whitespace (test_coding_lens.CodingTests.test_parser_disagreement_on_chunked_whitespace) ... ok\ntest_parser_silent_short_content_length (test_coding_lens.CodingTests.test_parser_silent_short_content_length) ... ok\ntest_real_watchdog_kills_local_slow_worker (test_coding_lens.CodingTests.test_real_watchdog_kills_local_slow_worker) ... ok\ntest_selected_headers_allowlist_and_bounds (test_coding_lens.CodingTests.test_selected_headers_allowlist_and_bounds) ... ok\ntest_truncated_header_stream_and_trailer (test_coding_lens.CodingTests.test_truncated_header_stream_and_trailer) ... ok\ntest_unsupported_and_duplicate_content_coding (test_coding_lens.CodingTests.test_unsupported_and_duplicate_content_coding) ... ok\ntest_watchdog_discards_partial_report (test_coding_lens.CodingTests.test_watchdog_discards_partial_report) ... ok\ntest_worker_protocol_and_url_refusals (test_coding_lens.CodingTests.test_worker_protocol_and_url_refusals) ... ok\n\n----------------------------------------------------------------------\nRan 24 tests in 0.514s\n\nOK\n"
+    },
+    {
+      "command": "python3 -B test/scratch/coding_independent_review.py",
+      "exit_code": 0,
+      "wall_time_seconds": 0.198859702,
+      "output": "test_all_truncations_rejected (__main__.IndependentReview.test_all_truncations_rejected) ... ok\ntest_crc_and_size_corruption (__main__.IndependentReview.test_crc_and_size_corruption) ... ok\ntest_duplicate_equal_lengths (__main__.IndependentReview.test_duplicate_equal_lengths) ... ok\ntest_empty_and_concatenated_members (__main__.IndependentReview.test_empty_and_concatenated_members) ... ok\ntest_framing_and_coding_refusals (__main__.IndependentReview.test_framing_and_coding_refusals) ... ok\ntest_gzip_every_boundary (__main__.IndependentReview.test_gzip_every_boundary) ... ok\ntest_http_chunked_truncation (__main__.IndependentReview.test_http_chunked_truncation) ... ok\ntest_http_content_length_short_read (__main__.IndependentReview.test_http_content_length_short_read) ... ok\ntest_limits_exact_and_sentinel (__main__.IndependentReview.test_limits_exact_and_sentinel) ... ok\ntest_no_body_304_encoding_is_metadata (__main__.IndependentReview.test_no_body_304_encoding_is_metadata) ... ok\ntest_trailing_bytes_and_member_bound (__main__.IndependentReview.test_trailing_bytes_and_member_bound) ... ok\n\n----------------------------------------------------------------------\nRan 11 tests in 0.139s\n\nOK\n"
+    },
+    {
+      "command": "python3 -B line-1/tools/coding-lens/coding_lens.py --demo",
+      "exit_code": 0,
+      "wall_time_seconds": 0.014234273,
+      "output": "{\n  \"schema\": \"coding-lens/v1\",\n  \"synthetic_demo\": true,\n  \"network_requests\": 0,\n  \"cases\": [\n    {\n      \"case\": \"valid_gzip\",\n      \"encoded_bytes\": 70,\n      \"decoded_budget\": 2700,\n      \"decoded_bytes\": 2700,\n      \"decoded_sha256\": \"dd107e53593b66a14b7ac6dc4646e6b8b7721dece4fcc4519b45246cf6935449\",\n      \"gzip_members\": 1,\n      \"outcome\": \"complete\"\n    },\n    {\n      \"case\": \"truncated_trailer\",\n      \"encoded_bytes\": 67,\n      \"decoded_budget\": 2700,\n      \"outcome\": \"gzip_incomplete\",\n      \"decoded_bytes\": 2700\n    },\n    {\n      \"case\": \"decoded_budget\",\n      \"encoded_bytes\": 70,\n      \"decoded_budget\": 2699,\n      \"outcome\": \"decoded_limit\",\n      \"decoded_bytes\": 2700\n    }\n  ]\n}\n"
+    }
+  ],
+  "notes": [
+    "Scratch test harness is not submitted; delivered tests are self-contained and offline.",
+    "Live evidence is retained separately in tools/coding-lens/observed-live41.json."
+  ]
+}

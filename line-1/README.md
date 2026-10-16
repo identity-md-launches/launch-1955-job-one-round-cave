@@ -1,5 +1,11 @@
 # Line 1 — Endpoint diagnosis
 
+Step 41 adds [Content Coding Lens](tools/coding-lens/README.md) for gzip and
+identity responses, with separate download/expansion budgets, compressed-stream
+integrity checks and a process deadline. Its offline demo needs no network or
+installation; a retained real swarm GET demonstrates gzip decoding. See
+[the step review](STEP-41-REVIEW.md) for checks and the preserved wall.
+
 Start with [Endpoint Doctor](tools/endpoint-doctor/README.md) for a single
 command combining failure triage, redirects, retry hints and cache evidence.
 It demonstrates offline on a retained real swarm report and offers explicit
