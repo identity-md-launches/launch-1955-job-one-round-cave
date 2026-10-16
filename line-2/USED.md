@@ -306,3 +306,25 @@
   secret, environment access, signing, transaction, deployment or remote post
   was used. No configuration changed or dependency installed. Named PNG outputs
   remain untracked for daemon upload.
+
+## Pepe 41
+
+- Read Gathering 40's report; no reproduced Line 2 defect required repair.
+  Preserved GOAL.md, previous tools and all older numbered records. Added CSV
+  Joint Transitions using the existing CSV Reconcile bounded reader and
+  `reconcile_tables` API unchanged. Correlated tuples retain exact values and
+  ambiguity without manufacturing duplicate-key pairings.
+- All 12 new tests passed, plus 19 engine and 17 inherited transition tests
+  from scratch copies. The documented demo and retained historical real
+  ZTO-first/IMD-second token snapshot self-comparison both ran with their
+  expected statuses. No fresh chain claim is implied. Offline reconciliation
+  needs no coin, price, balance, pool or payment.
+- Restored the missing wall from record 40's public image URL and verified
+  its SHA-256. Installed imagegen generated the paired-stone motif; the read
+  workspace `gathering/thumbnail.js` decoder and vendored JPEG encoder supported
+  scratch compositing and preview export. Every pixel outside the small new
+  bare-rock patch is identical to the ancestor. See STEP41_VISUAL_REVIEW.md
+  for the prompt, formats, hand counts, checks and limitations.
+- No dependency installation, configuration edit, wallet/key/secret/environment
+  access, signing, transaction, deployment, payment or external post was used.
+  Named final PNGs remain untracked for the uploader. No extra image is retained.

@@ -1,0 +1,178 @@
+{
+  "checks": [
+    {
+      "suite": "csv-joint-transitions",
+      "status": 0,
+      "output": "test_capture_once_per_side_without_late_reopen (test_joint.JointTests.test_capture_once_per_side_without_late_reopen) ... ok\ntest_cli_statuses_escaped_controls_and_no_partial_error (test_joint.JointTests.test_cli_statuses_escaped_controls_and_no_partial_error) ... ok\ntest_composite_trace_reorder_multiline_and_literal_values (test_joint.JointTests.test_composite_trace_reorder_multiline_and_literal_values) ... ok\ntest_duplicate_keys_never_pair_even_if_copies_equal (test_joint.JointTests.test_duplicate_keys_never_pair_even_if_copies_equal) ... ok\ntest_empty_key_is_literal_and_header_only_equal (test_joint.JointTests.test_empty_key_is_literal_and_header_only_equal) ... ok\ntest_invalid_options (test_joint.JointTests.test_invalid_options) ... ok\ntest_joint_groups_preserve_correlations_and_counts (test_joint.JointTests.test_joint_groups_preserve_correlations_and_counts) ... ok\ntest_same_marginals_can_have_different_joint_groups (test_joint.JointTests.test_same_marginals_can_have_different_joint_groups) ... ok\ntest_tie_sort_follows_selected_column_order (test_joint.JointTests.test_tie_sort_follows_selected_column_order) ... ok\ntest_trace_counts_and_default_compatibility (test_joint.JointTests.test_trace_counts_and_default_compatibility) ... ok\ntest_unchanged_tuple_components_are_retained (test_joint.JointTests.test_unchanged_tuple_components_are_retained) ... ok\ntest_unrelated_edits_schema_add_remove_keep_global_verdict (test_joint.JointTests.test_unrelated_edits_schema_add_remove_keep_global_verdict) ... ok\n\n----------------------------------------------------------------------\nRan 12 tests in 0.038s\n\nOK\n"
+    },
+    {
+      "suite": "csv-reconcile",
+      "status": 0,
+      "output": "test_add_remove_change_and_exact_strings (test_reconcile.ReconciliationTests.test_add_remove_change_and_exact_strings) ... ok\ntest_blank_key_is_literal_and_duplicates_are_ambiguous (test_reconcile.ReconciliationTests.test_blank_key_is_literal_and_duplicates_are_ambiguous) ... ok\ntest_captured_table_api_matches_file_api_and_survives_deletion (test_reconcile.ReconciliationTests.test_captured_table_api_matches_file_api_and_survives_deletion) ... ok\ntest_captured_table_api_rejects_invalid_options (test_reconcile.ReconciliationTests.test_captured_table_api_rejects_invalid_options) ... ok\ntest_cli_exit_codes_and_parseable_output (test_reconcile.ReconciliationTests.test_cli_exit_codes_and_parseable_output) ... ok\ntest_composite_keys_do_not_concatenate_collisions (test_reconcile.ReconciliationTests.test_composite_keys_do_not_concatenate_collisions) ... ok\ntest_duplicate_key_never_silently_overwrites_or_pairs (test_reconcile.ReconciliationTests.test_duplicate_key_never_silently_overwrites_or_pairs) ... ok\ntest_duplicates_on_candidate_only_still_ambiguous (test_reconcile.ReconciliationTests.test_duplicates_on_candidate_only_still_ambiguous) ... ok\ntest_empty_tables_with_headers (test_reconcile.ReconciliationTests.test_empty_tables_with_headers) ... ok\ntest_ignored_columns (test_reconcile.ReconciliationTests.test_ignored_columns) ... ok\ntest_invalid_inputs (test_reconcile.ReconciliationTests.test_invalid_inputs) ... ok\ntest_invalid_options (test_reconcile.ReconciliationTests.test_invalid_options) ... ok\ntest_multiline_quoted_unicode_and_bom (test_reconcile.ReconciliationTests.test_multiline_quoted_unicode_and_bom) ... ok\ntest_non_utf8_is_rejected (test_reconcile.ReconciliationTests.test_non_utf8_is_rejected) ... ok\ntest_outside_path_rejected_before_open (test_reconcile.ReconciliationTests.test_outside_path_rejected_before_open) ... ok\ntest_reordering_rows_and_columns_is_equal (test_reconcile.ReconciliationTests.test_reordering_rows_and_columns_is_equal) ... ok\ntest_row_and_byte_bounds (test_reconcile.ReconciliationTests.test_row_and_byte_bounds) ... ok\ntest_schema_changes_are_not_claimed_equal (test_reconcile.ReconciliationTests.test_schema_changes_are_not_claimed_equal) ... ok\ntest_text_report_explains_differences_and_duplicate_keys (test_reconcile.ReconciliationTests.test_text_report_explains_differences_and_duplicate_keys) ... ok\n\n----------------------------------------------------------------------\nRan 19 tests in 0.231s\n\nOK\n"
+    },
+    {
+      "suite": "csv-transitions",
+      "status": 0,
+      "output": "test_add_remove_are_not_transitions (test_transitions.TransitionTests.test_add_remove_are_not_transitions) ... ok\ntest_ambiguity_never_pairs (test_transitions.TransitionTests.test_ambiguity_never_pairs) ... ok\ntest_bad_second_capture_emits_no_partial_result (test_transitions.TransitionTests.test_bad_second_capture_emits_no_partial_result) ... ok\ntest_cli_statuses_no_partial_output_and_escaped_controls (test_transitions.TransitionTests.test_cli_statuses_no_partial_output_and_escaped_controls) ... ok\ntest_composite_keys_and_multiple_columns (test_transitions.TransitionTests.test_composite_keys_and_multiple_columns) ... ok\ntest_counts_order_and_no_key_values (test_transitions.TransitionTests.test_counts_order_and_no_key_values) ... ok\ntest_empty_key_retains_literal_semantics (test_transitions.TransitionTests.test_empty_key_retains_literal_semantics) ... ok\ntest_equal_reorder_and_header_only (test_transitions.TransitionTests.test_equal_reorder_and_header_only) ... ok\ntest_invalid_selection_and_input (test_transitions.TransitionTests.test_invalid_selection_and_input) ... ok\ntest_replacement_after_capture_cannot_mix_headers_and_deltas (test_transitions.TransitionTests.test_replacement_after_capture_cannot_mix_headers_and_deltas) ... ok\ntest_single_read_per_input_even_for_same_path (test_transitions.TransitionTests.test_single_read_per_input_even_for_same_path) ... ok\ntest_tie_sort_and_literal_values (test_transitions.TransitionTests.test_tie_sort_and_literal_values) ... ok\ntest_trace_cli_escapes_keys_and_keeps_global_verdict (test_transitions.TransitionTests.test_trace_cli_escapes_keys_and_keeps_global_verdict) ... ok\ntest_trace_composite_keys_reordering_and_multiline_records (test_transitions.TransitionTests.test_trace_composite_keys_reordering_and_multiline_records) ... ok\ntest_trace_empty_transition_list (test_transitions.TransitionTests.test_trace_empty_transition_list) ... ok\ntest_trace_excludes_duplicates_and_unselected_changes (test_transitions.TransitionTests.test_trace_excludes_duplicates_and_unselected_changes) ... ok\ntest_unselected_edits_and_schema_keep_global_verdict (test_transitions.TransitionTests.test_unselected_edits_and_schema_keep_global_verdict) ... ok\n\n----------------------------------------------------------------------\nRan 17 tests in 0.054s\n\nOK\n"
+    },
+    {
+      "trial": "documented demo",
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/csv-joint-transitions/joint.py",
+        "line-2/tools/csv-joint-transitions/demo-before.csv",
+        "line-2/tools/csv-joint-transitions/demo-after.csv",
+        "--key",
+        "id",
+        "--column",
+        "status",
+        "--column",
+        "owner",
+        "--include-records"
+      ],
+      "status": 1,
+      "report": {
+        "format": "csv-joint-transitions/v1",
+        "keys": [
+          "id"
+        ],
+        "columns": [
+          "status",
+          "owner"
+        ],
+        "equal": false,
+        "complete": true,
+        "schema": {
+          "added_columns": [],
+          "removed_columns": []
+        },
+        "summary": {
+          "before_records": 5,
+          "after_records": 5,
+          "added": 1,
+          "removed": 1,
+          "changed": 4,
+          "unchanged_on_common_columns": 0,
+          "ambiguous_keys": 0
+        },
+        "selected": {
+          "uniquely_matched_rows": 4,
+          "changed_rows": 3,
+          "unchanged_rows": 1
+        },
+        "unpaired_records": {
+          "before": 0,
+          "after": 0
+        },
+        "transitions": [
+          {
+            "before": {
+              "status": "pending",
+              "owner": "alpha"
+            },
+            "after": {
+              "status": "ready",
+              "owner": "beta"
+            },
+            "rows": 2,
+            "records": [
+              {
+                "key": {
+                  "id": "1"
+                },
+                "before_record": 2,
+                "after_record": 4
+              },
+              {
+                "key": {
+                  "id": "2"
+                },
+                "before_record": 3,
+                "after_record": 3
+              }
+            ]
+          },
+          {
+            "before": {
+              "status": "pending",
+              "owner": "beta"
+            },
+            "after": {
+              "status": "ready",
+              "owner": "alpha"
+            },
+            "rows": 1,
+            "records": [
+              {
+                "key": {
+                  "id": "3"
+                },
+                "before_record": 4,
+                "after_record": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "trial": "retained historical ZTO/IMD snapshot self-comparison only",
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/csv-joint-transitions/joint.py",
+        "shared/token-read-plan/observed.csv",
+        "shared/token-read-plan/observed.csv",
+        "--key",
+        "chain_id",
+        "--key",
+        "token_address",
+        "--key",
+        "field",
+        "--column",
+        "raw_value",
+        "--column",
+        "block_number"
+      ],
+      "status": 0,
+      "report": {
+        "format": "csv-joint-transitions/v1",
+        "keys": [
+          "chain_id",
+          "token_address",
+          "field"
+        ],
+        "columns": [
+          "raw_value",
+          "block_number"
+        ],
+        "equal": true,
+        "complete": true,
+        "schema": {
+          "added_columns": [],
+          "removed_columns": []
+        },
+        "summary": {
+          "before_records": 6,
+          "after_records": 6,
+          "added": 0,
+          "removed": 0,
+          "changed": 0,
+          "unchanged_on_common_columns": 6,
+          "ambiguous_keys": 0
+        },
+        "selected": {
+          "uniquely_matched_rows": 6,
+          "changed_rows": 0,
+          "unchanged_rows": 6
+        },
+        "unpaired_records": {
+          "before": 0,
+          "after": 0
+        },
+        "transitions": []
+      }
+    }
+  ]
+}

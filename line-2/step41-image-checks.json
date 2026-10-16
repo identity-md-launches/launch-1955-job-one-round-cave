@@ -1,0 +1,52 @@
+{
+  "ancestor_sha256": "96b6e053f7c34e12d8a8567eaf75a27c17af2edc3e267f5606fc137d2409005e",
+  "generated_motif_sha256": "b96fcb0f5169a6d8ee26f1afaef84eafced4bbad1a085b91587686b926f153f1",
+  "png": {
+    "paths": [
+      "artifacts/line-2/wall-v21.png",
+      "artifacts/line-2/wall.png"
+    ],
+    "format": "PNG",
+    "mode": "RGB",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 4025421,
+    "sha256": "a2b2e0327f131dd07c8dbc00ed849479f150c148961c28f3cfd385534a67e913"
+  },
+  "jpeg": {
+    "path": "dist/line-2/41.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 74580,
+    "sha256": "6e7db11e87781608e2c72246213a2af189077b06ce9a37e1c4bf937e4906b04f"
+  },
+  "preservation": {
+    "rectangle": [
+      790,
+      762,
+      939,
+      808
+    ],
+    "changed_bounds": [
+      791,
+      762,
+      936,
+      807
+    ],
+    "changed_pixels": 2947,
+    "outside_rectangle_changed_pixels": 0
+  },
+  "visual_review_completed": true,
+  "unmet_visual_requirements": [],
+  "review_notes": [
+    "Final PNG and JPEG opened after saving.",
+    "Inherited principal hands and two right-side raised hands retain five digits; no hands added.",
+    "No writing or prohibited symbols observed.",
+    "New motif small and subtle at preview scale; local review is not independent approval."
+  ]
+}

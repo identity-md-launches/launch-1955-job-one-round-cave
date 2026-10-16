@@ -1,0 +1,14 @@
+{
+  "new_record_number": 41,
+  "new_record_sha256_matches_wall": true,
+  "continuation_identical": true,
+  "goal_unchanged": true,
+  "older_records_unchanged": true,
+  "changed_paths_within_scope": true,
+  "all_new_non_artifact_files_at_most_100000_bytes": true,
+  "named_pngs_untracked": true,
+  "behavioral_tests_passed": 48,
+  "new_tool_demo_exit": 1,
+  "historical_snapshot_self_comparison_exit": 0,
+  "unmet_visual_requirements": []
+}
