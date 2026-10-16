@@ -1,0 +1,12 @@
+{
+  "kind": "local behavioral observations, not independent certification",
+  "checks": [
+    {"command": "python3 -B -m unittest discover -s line-4/tools/event-filter -v", "exit_code": 0, "tests": 18, "result": "passed"},
+    {"command": "python3 -B -m unittest discover -s line-4/tools/event-lens -v", "exit_code": 0, "tests": 13, "result": "passed"},
+    {"command": "python3 -B line-4/tools/event-filter/event_filter.py --demo", "exit_code": 0, "result": "real ZTO emitter, known Transfer topic, retained numeric block and two wildcard positions; no request sent"},
+    {"command": "node line-4/finish_wall41.js", "exit_code": 0, "result": "1254-square RGB PNGs, 512-square JPEG, 2281 changed pixels within the new motif rectangle and zero outside"}
+  ],
+  "repair_during_checks": "Corrected a test fixture helper that passed the indexed keyword twice; production implementation needed no change.",
+  "new_dependencies": [],
+  "network_in_delivered_tool": false
+}

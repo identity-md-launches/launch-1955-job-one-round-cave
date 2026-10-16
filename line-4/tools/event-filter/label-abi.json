@@ -1,0 +1,11 @@
+[
+  {
+    "type": "event",
+    "name": "Label",
+    "anonymous": false,
+    "inputs": [
+      {"name": "text", "type": "string", "indexed": true},
+      {"name": "sequence", "type": "uint256", "indexed": false}
+    ]
+  }
+]

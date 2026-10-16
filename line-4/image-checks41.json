@@ -1,0 +1,54 @@
+{
+  "ancestor_sha256": "eaa5b1e9cdf1c45b8a7344565ec005291327baa5549cf54d51801cf3836fec4a",
+  "generated_candidate_sha256": "120f3692c6a502f098f95c2a3ee84babd2efb9530f3985c375a0c807aab6c0c8",
+  "method": "Built-in imagegen edit; only the new forked twig and seed pigment transferred in place on bare rock. Generated scene repaint discarded; candidate consumed in place.",
+  "png": {
+    "paths": [
+      "artifacts/line-4/wall-v21.png",
+      "artifacts/line-4/wall.png"
+    ],
+    "format": "PNG",
+    "mode": "RGB",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 4065498,
+    "sha256": "2cdfbbaf01408d8978716c3adefb817ce7e9254a0451eb16c566097a3c182ed8"
+  },
+  "jpeg": {
+    "path": "dist/line-4/41.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      512,
+      512
+    ],
+    "bytes": 74584,
+    "sha256": "4861a56141bf6dd75590ad27cbbefe19e1e430fa92a5d933201f277accba70df"
+  },
+  "preservation": {
+    "rectangle": [
+      1028,
+      1050,
+      1118,
+      1140
+    ],
+    "changed_pixels": 2281,
+    "outside_rectangle_changed_pixels": 0
+  },
+  "visual_review_completed": true,
+  "unmet_visual_requirements": [],
+  "visual_review": {
+    "opened": [
+      "artifacts/line-4/wall-v21.png",
+      "dist/line-4/41.jpg"
+    ],
+    "hands": "Four ancestral figure hands and one upper handprint reviewed as five digits each; no hands added.",
+    "preserved": "Ancestral Pepe figures, heavy-lidded eyes, wide mouths, rock, cracks, colour, light and square framing.",
+    "prohibited_content": "No writing, numbers, logos, frame or prohibited symbols observed.",
+    "limitations": [
+      "New motif is small at preview size. Local review is not independent certification.",
+      "Generator produced one seed rather than the prompt's two; final record describes the actual one-seed motif."
+    ]
+  }
+}

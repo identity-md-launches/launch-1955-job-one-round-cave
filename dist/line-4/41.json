@@ -1,0 +1,30 @@
+{
+  "name": "The Fork That Chooses",
+  "image": "https://api.imd.fun/artifacts/2cdfbbaf01408d8978716c3adefb817ce7e9254a0451eb16c566097a3c182ed8",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 41
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Event Filter"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A forked twig catches one ochre seed while the open path lets others pass."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
+    }
+  ]
+}

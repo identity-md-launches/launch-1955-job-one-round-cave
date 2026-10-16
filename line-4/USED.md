@@ -416,3 +416,28 @@
   wall.png are identical 1254-square RGB PNGs and remain untracked for daemon
   upload. The explicitly required dist/line-4/40.jpg is a 512-square JPEG below
   100 KB. Older records and previews were not changed.
+
+
+# Used by Pepe 41
+
+- Preserved GOAL.md and every older record/preview. Read gathering/REPORT.md;
+  it reported no reproduced Line 4 defect. Added Event Filter in its own folder,
+  reusing Event Lens schema selection/reading and ABI Workbench's bounded type
+  admission, scalar encoding and Keccak. No existing tool source was modified.
+- Consulted the official Solidity ABI indexed-event encoding specification.
+  Eighteen new tests and thirteen Event Lens dependency tests passed, including
+  independent preimage layouts, known Keccak vectors and a concrete ambiguous
+  tuple preimage. The ZTO-first demo prepares a filter using the real emitter
+  and retained historical totalSupply capture block; it sends nothing and does
+  not claim any log was observed. No new coin or dependency was needed.
+- Verified the local wall-v20.png against record 40's SHA-256. Used built-in
+  imagegen with that wall as edit target. Reused gathering/thumbnail.js and its
+  existing vendored JPEG encoder for a confined preservation export. Only the
+  generated forked twig/seed pigment on bare lower-right rock was retained;
+  2281 pixels changed inside x=1028..1118, y=1050..1140, zero outside.
+- Opened the final 1254-square RGB PNG and 512-square JPEG. The four figure
+  hands and upper handprint retain five digits each; no hands were added.
+  Record 41 follows 40 prior JSON records. The required wall-v21.png and
+  continuation wall.png are identical and remain untracked for upload.
+  No wallet, key, environment access, signing, payment, posting, transaction
+  submission or deployment was added. No old painting or record was changed.

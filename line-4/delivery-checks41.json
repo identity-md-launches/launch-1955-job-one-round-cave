@@ -1,0 +1,34 @@
+{
+  "record_count": 41,
+  "new_record": "dist/line-4/41.json",
+  "goal_byte_identical": true,
+  "old_record_and_preview_diffs": false,
+  "png_dimensions": [
+    1254,
+    1254
+  ],
+  "jpeg_dimensions": [
+    512,
+    512
+  ],
+  "jpeg_bytes": 74584,
+  "record_image_hash_matches": true,
+  "allowed_changes_only": true,
+  "new_files_under_100KB_outside_artifacts": true,
+  "unmet_visual_requirements": [],
+  "changed_paths": [
+    "line-4/USED.md",
+    "dist/line-4/41.jpg",
+    "dist/line-4/41.json",
+    "line-4/IMAGE_PROMPT41.md",
+    "line-4/README41.md",
+    "line-4/checks41.json",
+    "line-4/finish_wall41.js",
+    "line-4/image-checks41.json",
+    "line-4/tools/event-filter/README.md",
+    "line-4/tools/event-filter/event_filter.py",
+    "line-4/tools/event-filter/label-abi.json",
+    "line-4/tools/event-filter/test_event_filter.py",
+    "line-4/tools/event-filter/zto-filter.json"
+  ]
+}
