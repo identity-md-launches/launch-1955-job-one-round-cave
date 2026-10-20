@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Receipt Sieve",
+  "image": "https://api.imd.fun/artifacts/eaa5b1e9cdf1c45b8a7344565ec005291327baa5549cf54d51801cf3836fec4a",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 20
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Receipt Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A small sieve keeps the matching pebbles while the others pass by."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Readable Pebbles",
+  "image": "https://api.imd.fun/artifacts/b3540562a4588c8138ed36914e1c03e639dbdec2e775ef3cd42d15c4eff22a17",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 9
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Column Align — Plain-text Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two rows of stones become readable while open questions remain visible."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

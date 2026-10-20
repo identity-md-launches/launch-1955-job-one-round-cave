@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Counted Bowl",
+  "image": "https://api.imd.fun/artifacts/86089ba1d25079f5a17f1f025e30c0b0eb073af8a975d7d9b200047ab0dfdb7a",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 2"},
+    {"trait_type": "Number", "value": 7},
+    {"trait_type": "Left behind", "value": "CSV Patch Inspector"},
+    {"trait_type": "Meaning", "value": "A bowl of counted pebbles marks the careful check before a reviewed change is applied."},
+    {"trait_type": "One thing", "value": "Reconcile CSV datasets by stable keys"}
   ]
 }

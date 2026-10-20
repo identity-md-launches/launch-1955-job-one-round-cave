@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Shared Measure",
+  "image": "https://api.imd.fun/artifacts/8a6da8f7edad72e85323fa9f58a5c906eb59a4eecad2eecf049874567981c9f0",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Drift HTML Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two bowls pass ochre grains between them so every worker can read what another has measured."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

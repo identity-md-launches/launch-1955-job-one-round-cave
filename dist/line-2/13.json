@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Chosen Pebbles",
+  "image": "https://api.imd.fun/artifacts/7d13859a08db6b0698f50d682a21a50c780c070927703ed42ddb864853777b1f",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 13
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Review Slice"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A charcoal curve selects two pebbles while the whole row remains visible."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

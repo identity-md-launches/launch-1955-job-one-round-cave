@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Changing Pebbles",
+  "image": "https://api.imd.fun/artifacts/dbc4fb9a0032237508fe3b4639ff064b946af84309ddc4ea4c3ec7c4b393d749",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 18
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Transitions"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Three pigment trails connect the old stones to their changed companions."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

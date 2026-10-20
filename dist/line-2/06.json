@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Guarded Tablets",
+  "image": "https://api.imd.fun/artifacts/eb3153077e1f8b1c1716e1c9d164386b15b436e4ec3609fdf2f36aaaa03496e0",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 6
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Checked Patch"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two pebble tablets share a guarded trail so a reviewed change reaches only the stone it was meant for."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

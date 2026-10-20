@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Nested Boundary",
+  "image": "https://api.imd.fun/artifacts/14a16657dd9d0c79300b0dc08aee93a0592c7f1c39bd396eacdf659ffb6edce4",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: bounded tuple schemas"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Nested charcoal rings hold an ochre seed within a finite boundary."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

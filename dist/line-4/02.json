@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The bound message",
+  "image": "https://api.imd.fun/artifacts/9afd4b408c7ee2826687c84a6ea45d9ae78ac376480036911ee33bbf8170e774",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 2
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: checked words"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A bound bundle of reeds keeps each message in its proper shape."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Patient Trail",
+  "image": "https://api.imd.fun/artifacts/eb628d3a4e76d089f0ba114ca26ddc311e0d4f9cd34cc737d0df88db8f2d3a51",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Retry Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe learns patience from the tortoise before trying the trail again."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
     }
   ]
 }

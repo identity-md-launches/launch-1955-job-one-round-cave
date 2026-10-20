@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Fork That Waits",
+  "image": "https://api.imd.fun/artifacts/135cad1805e7b55690b61ed57d01c05079452308879950c73fc231d1709e6c6d",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 16
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Call Inspector"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A chalk pebble waits below a fork until one path can be named."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

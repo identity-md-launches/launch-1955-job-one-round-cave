@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Measured Crossing",
+  "image": "https://api.imd.fun/artifacts/feee840cfe1b6734434156256d37b8d90cf2de549a6fa5b4f3cc0f7b9f2033bd",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Change Gate"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Ochre pebbles pass between charcoal stones, carrying a change within chosen limits."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

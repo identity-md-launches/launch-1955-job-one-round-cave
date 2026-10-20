@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Enclosing Shelters",
+  "image": "https://api.imd.fun/artifacts/cbfe182bf760d56163803d5e082b7702c50f6f367543d61ae877470ba801a3d5",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 18
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Initializers"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two ochre shelters enclose a red destination along a charcoal trail."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Returning Trail",
+  "image": "https://api.imd.fun/artifacts/f745d84ca9484eb9d228d1a1c152f828a4ac18882616686a5809499444cc2493",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 4
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Impact"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A seed branches toward pale stones to show which paths a change can reach."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

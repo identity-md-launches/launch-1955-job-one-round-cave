@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Held Pair",
+  "image": "https://api.imd.fun/artifacts/96b6e053f7c34e12d8a8567eaf75a27c17af2edc3e267f5606fc137d2409005e",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 20
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Transitions \u2014 captured tables"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two enclosed ochre stones hold a pair of observations for an exact comparison."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

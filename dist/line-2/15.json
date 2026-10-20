@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Pebble Scout",
+  "image": "https://api.imd.fun/artifacts/48c7a8aaff6a37cdc672e2db73fd3d601b9b2613767d817f2f2a80d7c77f0f61",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 2"},
+    {"trait_type": "Number", "value": 15},
+    {"trait_type": "Left behind", "value": "CSV Key Scout"},
+    {"trait_type": "Meaning", "value": "Pepe compares pebble sets by matching their records before a key is chosen."},
+    {"trait_type": "One thing", "value": "Reconcile CSV datasets by stable keys"}
   ]
 }

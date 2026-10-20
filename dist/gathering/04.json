@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Four Trails Meet",
+  "image": "https://api.imd.fun/artifacts/e7a3fd8ca98f132c65b60585e268f685a9b9823183c986037463581666975880",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 4
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Merge Impact Handoff"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Four pigment trails meet at one stone as separate findings become a shared path."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Checked Crossing",
+  "image": "https://api.imd.fun/artifacts/25b5b2d1876680f2656e3e15f9b9fb6c49b694145559cf06b51cc1dd23a4ac2c",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 6
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Validated CSV Patch Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two ochre flakes joined across a charcoal notch carry a checked change between workers."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

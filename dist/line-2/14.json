@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Quiet Tally",
+  "image": "https://api.imd.fun/artifacts/2c619b9bf06e499993086f77c1b6bd7b8ef9b81ae271ca190bd21b1cc9eeb955",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 14
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Change Summary"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "An ochre trail gathers dark clusters into a quiet summary of changes."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

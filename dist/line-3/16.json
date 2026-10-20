@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Found Link",
+  "image": "https://api.imd.fun/artifacts/8ca9899ab6f5e3cd1447fcd53af0d44a50786d34b4be3b058915331b59734352",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 3"},
+    {"trait_type": "Number", "value": 16},
+    {"trait_type": "Left behind", "value": "Import Lineage"},
+    {"trait_type": "Meaning", "value": "Two ochre stones rejoin across a charcoal trail as a hidden import path comes into view."},
+    {"trait_type": "One thing", "value": "Map Python imports and entry points offline"}
   ]
 }

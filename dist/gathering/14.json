@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Carried Finding",
+  "image": "https://api.imd.fun/artifacts/fe5ae61022ffb11e4e20714a4de075e842a17834a1a9c88a14b54022ba633ec8",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 14
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "HTTP Age Evidence Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A small ochre branch carries one finding to other workers."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

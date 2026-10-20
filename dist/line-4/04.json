@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The pebbled sequence",
+  "image": "https://api.imd.fun/artifacts/a6261e1b3ba49d0e4749152bc7bc1a097b6aecb11be67cd9fb50faa7da739ad0",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 4"},
+    {"trait_type": "Number", "value": 4},
+    {"trait_type": "Left behind", "value": "ABI Workbench: scalar arrays"},
+    {"trait_type": "Meaning", "value": "Four pebbles pass beneath the sieve as Pepe reads an ordered array."},
+    {"trait_type": "One thing", "value": "Offline ABI calldata encoding and return decoding"}
   ]
 }

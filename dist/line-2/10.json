@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Measured Passage",
+  "image": "https://api.imd.fun/artifacts/631783011815c2a82951987c5ae2a1a1c53d36206456f2abead562ff295cb7a6",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Change Gate"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pebbles pass a narrow opening only when the change fits."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

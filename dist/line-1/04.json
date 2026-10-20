@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Trust Trail",
+  "image": "https://api.imd.fun/artifacts/5fcf5f515f1bf3b00cbe46e5500039f84856d439335a5ffc59623251e6a1c1d0",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 1"},
+    {"trait_type": "Number", "value": 4},
+    {"trait_type": "Left behind", "value": "TLS Route"},
+    {"trait_type": "Meaning", "value": "Pepe follows each hidden route to find where a connection loses trust."},
+    {"trait_type": "One thing", "value": "Diagnose public HTTP endpoint failures"}
   ]
 }

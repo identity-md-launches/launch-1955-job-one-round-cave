@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Joined Enclosures",
+  "image": "https://api.imd.fun/artifacts/5cd37d2fcd84e7cf9dec0af6f0e306387d5fc1604c057377693eff5e5d1cb063",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 3"},
+    {"trait_type": "Number", "value": 7},
+    {"trait_type": "Left behind", "value": "Import Boundaries"},
+    {"trait_type": "Meaning", "value": "Two ochre enclosures share a charcoal trail between their yellow embers."},
+    {"trait_type": "One thing", "value": "Map Python imports and entry points offline"}
   ]
 }

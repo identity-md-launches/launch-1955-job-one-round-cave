@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Shared Count",
+  "image": "https://api.imd.fun/artifacts/5288a5c3aa645cf5b70ed2dd72c9623b18a90b41c59a3d484673bfcfca216068",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 16
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "HTTP Multiplicity Review"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Four worn pebbles share a winding trail while one bright stone keeps their counts honest."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

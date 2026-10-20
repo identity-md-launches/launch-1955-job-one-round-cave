@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Measured Cord",
+  "image": "https://api.imd.fun/artifacts/50061b113c28df15c5deb0a1e2df2fb1777886b49133b1613d5f2b444ae016c7",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 13
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Framing Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe measures a promised length against what arrived."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
     }
   ]
 }

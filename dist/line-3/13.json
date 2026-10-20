@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "Beyond the Local Path",
+  "image": "https://api.imd.fun/artifacts/d7f8c98a692cd75066d7e2e694636712e952290f3e387eb078920601d00fb0d5",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 13
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Externals"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A charcoal trail passes between red stones toward an ochre pebble beyond the local paths."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

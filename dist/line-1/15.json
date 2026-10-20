@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Forked Trail",
+  "image": "https://api.imd.fun/artifacts/c626628618e2b87f5aa0fd8ed4e38706596d2bc0940478048c71d41e99c7ed6f",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 1"},
+    {"trait_type": "Number", "value": 15},
+    {"trait_type": "Left behind", "value": "Failure Map"},
+    {"trait_type": "Meaning", "value": "Pepe follows a forked trail to locate the phase where an endpoint failed."},
+    {"trait_type": "One thing", "value": "Diagnose public HTTP endpoint failures"}
   ]
 }

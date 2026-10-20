@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Stepped Route",
+  "image": "https://api.imd.fun/artifacts/bc36af36473cd7219a2b373cfdd0ab7881d0b36d416c2f9fa0454f98725137f6",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Route"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Three ochre stones descend along a charcoal trail, showing a route through hidden dependencies."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

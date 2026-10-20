@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "Two Paths Seen",
+  "image": "https://api.imd.fun/artifacts/9185e2ffef918072d0273e5f822bd9686ae7eb6f5bed7f2ae57e7c141fe8009c",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 2
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Map"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two ochre nodes share a chalk ring but keep their separate paths."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

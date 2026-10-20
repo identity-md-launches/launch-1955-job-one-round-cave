@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Shell Remembers",
+  "image": "https://api.imd.fun/artifacts/4255123b1ef68ca9fde6f5542c85da3cad746dc07a263488b7e778758b73e440",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 13
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Event Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "An ochre shell releases three charcoal echoes, making the traces of an event readable."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

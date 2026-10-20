@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Exact Entrance",
+  "image": "https://api.imd.fun/artifacts/9e4f1c4d5dc2993ae1680611d2acba809de48d400766fd9f2d662760e88e7ae0",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Endpoint Sentry — exact ports"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe refuses the blocked entrance so the trail reaches exactly the opening it names."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
     }
   ]
 }

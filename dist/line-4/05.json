@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The returning cord",
+  "image": "https://api.imd.fun/artifacts/8cf57c8932e7a48918aea4eef84c904790b75d5aa905b509eea1730133708838",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 5
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: strict return decoding"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A braided cord closes on itself as Pepe checks that decoded words return to identical bytes."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

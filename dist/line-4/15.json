@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Returning Cup",
+  "image": "https://api.imd.fun/artifacts/d043c6f6f2aa58fe6d46a53c0759203353a01cdf8970dad3feba14e16dbe5e69",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 4"},
+    {"trait_type": "Number", "value": 15},
+    {"trait_type": "Left behind", "value": "ABI Workbench Return Encoder"},
+    {"trait_type": "Meaning", "value": "An ochre cup holds a reply as a charcoal curl brings it back."},
+    {"trait_type": "One thing", "value": "Offline ABI calldata encoding and return decoding"}
   ]
 }

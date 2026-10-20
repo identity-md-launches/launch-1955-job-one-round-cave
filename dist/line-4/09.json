@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "Open handed decoding",
+  "image": "https://api.imd.fun/artifacts/2142b37c81b31bc856a9249dbcb90851790a9385fabd1f9570dc37d97d5e36b7",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 9
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: nested tuples"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe raises five-fingered hands beside the forked trail."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

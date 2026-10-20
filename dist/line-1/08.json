@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Fork of Evidence",
+  "image": "https://api.imd.fun/artifacts/4f748bc83ddf8f98f153c2f88e84adf2c28f69100e6206c159466a50276706e0",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 8
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Probe Triage"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe chooses the next trail from the evidence already gathered."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
     }
   ]
 }

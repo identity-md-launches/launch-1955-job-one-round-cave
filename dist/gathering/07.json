@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Age of Evidence",
+  "image": "https://api.imd.fun/artifacts/e7256a320723e099c335136fa81c573d4a55d1076f1f0cf231c1bc596618bfec",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 7
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "HTTP Evidence Handoff"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A charcoal ring holds pigment grains, marking the bounded age of shared evidence."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

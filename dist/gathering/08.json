@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Bounded Basket",
+  "image": "https://api.imd.fun/artifacts/0a0d20b87837000a197558fff5edcdded6a11e65fbe13fa6ba95494ed5b177b8",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 8
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Bounded Import CSV Handoff"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A worn woven sieve holds a few stones, carrying only evidence that fits the basket."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
     }
   ]
 }

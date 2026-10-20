@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Witnessed Loop",
+  "image": "https://api.imd.fun/artifacts/e4997c233e6f7a26d6feea29f6f8b5c7a3d0d9fda1272109ede115261b2b54e6",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 9
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Witness"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Three ochre stones close a charcoal trail, and a chalk touch marks where the loop was witnessed."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

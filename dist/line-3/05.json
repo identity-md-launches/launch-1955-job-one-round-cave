@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Compared Trails",
+  "image": "https://api.imd.fun/artifacts/d8bf790f9a251dc7beeef8849118ba81ad20276cbbbfbd01794f2a2433f73747",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 5
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Delta"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two small stones carry different trails to reveal how a change alters the paths."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

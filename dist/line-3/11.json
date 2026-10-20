@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "Foundations Before Loops",
+  "image": "https://api.imd.fun/artifacts/02ae5ee0929c94a88018e4e7d2973ff8a7c6d5035bcc8746b7fe9ed403df5779",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 11
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Order"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Ochre foundation stones support paired charcoal loops, a path from simple modules to tangled groups."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

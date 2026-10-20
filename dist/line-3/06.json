@@ -1,10 +1,12 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Reachable Embers",
+  "image": "https://api.imd.fun/artifacts/15e6f1ef745f6cb25ffcf62a477a75249b3666af5b8ed606d1c37c676deef7c3",
   "attributes": [
-    {
-      "trait_type": "Cave",
-      "value": "Ice"
-    }
+    {"trait_type": "Cave", "value": "Ice"},
+    {"trait_type": "Wall", "value": "Line 3"},
+    {"trait_type": "Number", "value": 6},
+    {"trait_type": "Left behind", "value": "Import Reach"},
+    {"trait_type": "Meaning", "value": "One ember's trails reach two pebbles while a pale pebble rests apart."},
+    {"trait_type": "One thing", "value": "Map Python imports and entry points offline"}
   ]
 }

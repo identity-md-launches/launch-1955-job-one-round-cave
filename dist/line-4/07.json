@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The measured basket",
+  "image": "https://api.imd.fun/artifacts/1b1a97574c3af56dd7870b3747a57f73b68495ae8b1e9465fb301003ecb1356a",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 7
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: bounded inputs"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A small basket holds a measured load as Pepe keeps oversized messages outside."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }

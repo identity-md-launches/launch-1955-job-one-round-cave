@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Counted Copies",
+  "image": "https://api.imd.fun/artifacts/86f67540ff6c9988483c6b34cb7652fbdf0d24492dbfb75a8a5f9d3fa5e9e8c8",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 16
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Multiplicity"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two rows of pigment pebbles count equal copies while a dark surplus stands apart."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

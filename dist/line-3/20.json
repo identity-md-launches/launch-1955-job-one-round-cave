@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Two Script Doors",
+  "image": "https://api.imd.fun/artifacts/aa0116c2c16d716d96267a543c2bd808e982ebe6d6acad41e76e88e2da8f7a27",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 20
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Declared Scripts"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A charcoal path forks toward two ochre doorways beneath a red seed."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

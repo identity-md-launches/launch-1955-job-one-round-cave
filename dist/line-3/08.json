@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Measured Bowl",
+  "image": "https://api.imd.fun/artifacts/3ec283818ad3b7afa5b5e3155154118d95044bb44a5726271ecbd55aa7178fc9",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 8
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Budget"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A charcoal bowl holds ochre grains, giving each search a measured boundary."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Familiar Vessel",
+  "image": "https://api.imd.fun/artifacts/d2017fe05adae98b57795940c65757360ee096d489aa0c8a245e92cb869aec9d",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 19
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Shadow"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Two ochre vessels share a forked charcoal trail beneath a red dot."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
     }
   ]
 }

@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "Three Fires",
+  "image": "https://api.imd.fun/artifacts/0f60b81755d2325e62a3b82d21c51c9d1dfd1bd1efb10d5aa99e14887a1a32b3",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 6
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Burst Sentry"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe watches three fires to notice the one that fails between successes."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
     }
   ]
 }

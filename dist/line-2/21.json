@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The Linked Changes",
+  "image": "https://api.imd.fun/artifacts/a2b2e0327f131dd07c8dbc00ed849479f150c148961c28f3cfd385534a67e913",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 21
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Joint Transitions"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Paired red and yellow stones follow one trail to show changes that belong together."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
     }
   ]
 }

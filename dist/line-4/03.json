@@ -1,10 +1,30 @@
 {
-  "name": "Not painted yet",
-  "image": "https://api.imd.fun/artifacts/b5e794cb2c70bd232230e389707698c69c2080786d606a13b39f9315c9a90799",
+  "name": "The message sieve",
+  "image": "https://api.imd.fun/artifacts/2548971366e8da1ea9d302d5b3494d18b50c36674511bc61e4bb294e38ce06f1",
   "attributes": [
     {
       "trait_type": "Cave",
       "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ABI Workbench: checked inputs"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "A clay sieve catches broken messages before they reach the tablet."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Offline ABI calldata encoding and return decoding"
     }
   ]
 }
